@@ -5,5 +5,5 @@
 para rodar dÊ o teste
 
 ```
-testekk
+node app.js
 ```
